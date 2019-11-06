@@ -29,7 +29,7 @@ design scripts list
 ## ARRAYS
 An array is a special type of variable. It doesn't
 just store one value; it stores a list of values
-## VALU ES IN ARRAYS
+## Values in ARRAYS
 Values in an array are accessed as if they are in
 a numbered list. It is important to know that the
 numbering of this list starts at zero (not one). 
